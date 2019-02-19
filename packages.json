@@ -1671,7 +1671,7 @@
       "functions",
       "lists"
     ],
-    "repo": "https://github.com/purescript/purescript-record-extra.git",
+    "repo": "https://github.com/justinwoo/purescript-record-extra.git",
     "version": "v1.0.0"
   },
   "record-format": {
