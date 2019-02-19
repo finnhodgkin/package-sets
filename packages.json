@@ -510,6 +510,17 @@
     "repo": "https://github.com/purescript/purescript-exists.git",
     "version": "v4.0.0"
   },
+  "express": {
+    "dependencies": [
+      "foreign",
+      "foreign-generic",
+      "node-http",
+      "test-unit",
+      "aff"
+    ],
+    "repo": "https://github.com/nkly/purescript-express",
+    "version": "v0.7.1"
+  },
   "filterable": {
     "dependencies": [
       "arrays",
@@ -1677,6 +1688,16 @@
       "unsafe-coerce"
     ],
     "repo": "https://github.com/purescript/purescript-record.git",
+    "version": "v1.0.0"
+  },
+  "record-extra": {
+    "dependencies": [
+      "functions",
+      "typelevel-prelude",
+      "record",
+      "lists"
+    ],
+    "repo": "https://github.com/justinwoo/purescript-record-extra.git",
     "version": "v1.0.0"
   },
   "record-format": {
